@@ -10,7 +10,7 @@
             width: calc(100% - 10px);
             height: calc(100% - 10px);
             fill: rgb(34, 39, 46);
-            stroke: rgb(225, 228, 232);
+            stroke: rgb(173, 186, 199);
             stroke-width: 1px;
             rx: 6px;
             ry: 6px;
@@ -27,8 +27,8 @@
             line-height: 24px;
             font-size: 16px;
             font-weight: 600;
-            color: rgb(36, 41, 46);
-            fill: rgb(36, 41, 46);
+            color: rgb(34, 51, 171);
+            fill: rgb(34, 51, 171);
           }
           
           ul {
@@ -73,7 +73,7 @@
             display: flex;
             height: 8px;
             overflow: hidden;
-            background-color: rgb(225, 228, 232);
+            background-color: rgb(173, 186, 199);
             border-radius: 6px;
             outline: 1px solid transparent;
             margin-bottom: 1em;
@@ -87,11 +87,11 @@
           .lang {
             font-weight: 600;
             margin-right: 4px;
-            color: rgb(188, 215, 255);
+            color: rgb(173, 186, 199);
           }
           
           .percent {
-            color: rgb(223, 237, 255)
+            color: rgb(173, 186, 199)
           }
     </style>
     <g>
@@ -100,7 +100,7 @@
     <foreignObject x="21" y="17" width="318" height="176">
     <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
     
-    <h2><font color="white">Languages Used (By File Size)</font></h2>
+    <h2><font color="#1E42BB">Languages Used (By File Size)</font></h2>
     
     
     <div>
