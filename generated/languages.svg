@@ -9,7 +9,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
+  fill: black;
   stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
@@ -87,11 +87,11 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: #7ee0e6;
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: rgb(88, 76, 105)
 }
 </style>
 <g>
@@ -100,7 +100,8 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2><font color="white">Languages Used (By File Size)</font></h2>
+
 
 <div>
 <span class="progress">
