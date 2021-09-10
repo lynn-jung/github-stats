@@ -67,7 +67,7 @@
     
     <table>
     <thead><tr style="transform: translateX(0);">
-    <th colspan="2">{{ name }}'s GitHub Statistics</th>
+        <th colspan="2"><a href="https://github.com/lynn-jung?tab=repositories" > {{ name }}'s GitHub Statistics</a></th>
     </tr></thead>
     <tbody>
     
